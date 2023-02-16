@@ -78,7 +78,7 @@ const App = () => {
         bgColor={colors.green}
         textColor={colors.white}
         title="Sad Thalendra"
-        text="Sometimes it's the Thalendra that gets sad with some problems, and then the Ruby comes with her love and cuteness and helps the Thalendra when he's sad. :)"
+        text="Sometimes it's the Thalendra that gets sad with some problems, and then the Ruby comes with her love and cuteness and helps the Thalendra when he is sad. :)"
         btnText="Continue"
         sequency="6"
       />
