@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Valentines-Day/precache-manifest.e89dd74662fde9fb290210af73c224dc.js"
+  "/Valentines-Day/precache-manifest.c0c9379eeb00350e965721b40a4e240a.js"
 );
 
 self.addEventListener('message', (event) => {
